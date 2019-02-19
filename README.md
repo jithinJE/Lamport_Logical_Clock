@@ -65,3 +65,14 @@ I have implemented the above algorithm, in two parts -
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a s1 r3 b
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c r2 s3 NULL
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;r1 d s2 e
+
+
+### Program
+The program for the above implementations are placed in their individual folders, with filename project.py
+
+Before executing, place a valid input file, with correct <b>inputFileName</b> and <b>delimiter</b>, as configured in the python code.
+
+Execute simply by command using 
+``` 
+python project.py 
+```
