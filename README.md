@@ -72,7 +72,7 @@ The program for the above implementations are placed in their individual folders
 
 Before executing, place a valid input file, with correct <b>inputFileName</b> and <b>delimiter</b>, as configured in the python code.
 
-Execute simply by command using 
+Execute simply by using command
 ``` 
 python project.py 
 ```
