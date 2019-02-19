@@ -10,7 +10,7 @@ An algorithm, developed by Leslie Lamport, to find the logical clock of an event
 
 
 Types of events that can occur -
-1) Normal - A normal execution of a process
+1) Local - A normal execution within a process
 2) Send - A process sends a message to another process
 3) Receive - A process receives a message sent by another process
 
